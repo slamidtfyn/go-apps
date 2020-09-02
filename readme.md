@@ -13,3 +13,7 @@ The mandatory hello world app
 ## go-variables
 
 Different variables, constants and math values
+
+## go-sense
+
+Application to show current sensor temperature on a Linux OS using https://github.com/mdlayher/lmsensors module
